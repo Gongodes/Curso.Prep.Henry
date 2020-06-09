@@ -76,7 +76,7 @@ function esPrimo(numero) {
 if (numero % i == 0) {return false;} return true;
 }
 
-
+}
 
 
 // No modificar nada debajo de esta línea
