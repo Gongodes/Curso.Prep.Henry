@@ -17,7 +17,7 @@ function crearGato(nombre, edad) {
         }
     return obj;
 }
-
+//cambiado
 
 function agregarPropiedad(objeto, property) {
   // Agrega una propiedad al objeto (argumento "objeto") con el valor `null`
