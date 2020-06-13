@@ -75,8 +75,13 @@ function esPrimo(numero) {
   if (numero == 2) {return true;} if (numero ==0 || numero == 1){return false;} for ( i=2; i< numero*numero; i ++){
 if (numero % i == 0) {return false;} return true;
 }
-
+// if (numero < 2) {
+//  return false}
+//for (var i = 2; i < numero; i++)
+// if (numero % 1 === 0){return false;}
+// else {return true};
 }
+
 
 
 // No modificar nada debajo de esta línea
