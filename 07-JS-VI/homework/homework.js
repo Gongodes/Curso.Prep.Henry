@@ -24,7 +24,7 @@ function map(array, cb) {
   // El nuevo array debe tener la misma longitud que el array del argumento
   return array.map(a=> cb(a))
 }
-
+//todo listo
 // No modificar nada debajo de esta línea
 // --------------------------------
 
